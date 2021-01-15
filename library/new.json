@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "1220",
+      "name": "mohana",
+      "jobrole": "mohana"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "books": [
+    {
+      "id": 10001,
+      "title": "Java Programming",
+      "author": " James Gosling",
+      "available_copies": 1,
+      "issued_to": [
+        "mohana"
+      ],
+      "status": "Available"
+    },
+    {
+      "id": 10002,
+      "title": "C++",
+      "author": "Bjarne Stroustrup",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10003,
+      "title": "Machine Learning",
+      "author": "  Robert Frost",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10004,
+      "title": "Cloud Computing",
+      "author": " Erl, Thomas",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10005,
+      "title": "Big Data",
+      "author": " Phil Simons",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10006,
+      "title": "Cyber Security",
+      "author": " Simon Singh",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10007,
+      "title": "Artificial Intelligence",
+      "author": " Peter Norvig",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10008,
+      "title": "Computer Fundamentals",
+      "author": " Pradeep Kumar Sinha",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10009,
+      "title": "C Programming",
+      "author": " Dennis Ritchie",
+      "available_copies": 1,
+      "issued_to": [],
+      "status": "Available"
+    },
+    {
+      "id": 10010,
+      "title": "Python",
+      "author": " Guido van Rossum",
+      "available_copies": 2,
+      "issued_to": [],
+      "status": "Available"
+    }
+  ],
+  "users": [
+    {
+      "id": "1220",
+      "name": "mohana",
+      "jobrole": "mohana"
+    },
+    {
+      "id": "1330",
+      "name": "nithya",
+      "jobrole": "nithya"
+    },
+    {
+      "id": "1998",
+      "name": "tr",
+      "jobrole": "rt"
+    },
+    {
+      "id": "4wvmvVu",
+      "name": "bhuvana",
+      "jobrole": "velu"
+    },
+    {
+      "id": "11",
+      "name": "mohana",
+      "jobrole": "mohana"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
